@@ -1,0 +1,78 @@
+* {
+    font-family: 'Plus Jakarta Sans', -apple-system, system-ui,
+        BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+}
+
+#font-demo {
+    color: var(--main-foreground);
+
+    .spacer {
+        width: 100%;
+        height: 0.5rem;
+    }
+
+    .bold {
+        font-weight: bold;
+    }
+
+    .uppercase {
+        text-transform: uppercase;
+    }
+
+    .link {
+        text-decoration: underline;
+    }
+
+    /* Titles */
+
+    .title {
+        font-weight: bold;
+    }
+
+    .title-h1 {
+        font-size: 1.75rem;
+        line-height: 2.125rem;
+    }
+
+    .title-h2 {
+        font-size: var(--_font-xl);
+        line-height: var(--_font-xl-leading);
+    }
+
+    .title-h3 {
+        font-size: var(--_font-lg);
+        line-height: var(--_font-lg-leading);
+    }
+
+    .title-h4 {
+        font-size: var(--_font-base);
+        line-height: var(--_font-base-leading);
+    }
+
+    .title-h5 {
+        font-size: var(--_font-md);
+        line-height: var(--_font-md-leading);
+    }
+
+    .title-h6 {
+        font-size: var(--_font-sm);
+        line-height: var(--_font-sm-leading);
+    }
+
+    /* Body */
+
+    .font-md {
+        font-size: var(--_font-md);
+        line-height: var(--_font-md-leading);
+    }
+
+    .font-sm {
+        font-size: var(--_font-sm);
+        line-height: var(--_font-sm-leading);
+    }
+
+    .font-xs {
+        font-size: var(--_font-xs);
+        line-height: var(--_font-xs-leading);
+    }
+}
