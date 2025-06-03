@@ -1,4 +1,4 @@
-import{j as s,M as i}from"./DocsRenderer-CFRXHY34-CcneigiP.js";import{useMDXComponents as l}from"./index-CeUwSHNo.js";import{N as t}from"./index-C8fD0GO1.js";import"./iframe-BdTyyZyv.js";import"./index-36vtBmcM.js";import"./index-ByJNHR83.js";import"./index-NOh9rqHv.js";import"./index-ogSvIofg.js";import"./react-18-B3L11rOL.js";function o(n){const e={h1:"h1",h2:"h2",...l(),...n.components};return s.jsxs(s.Fragment,{children:[s.jsx(i,{title:"Design Tokens/Fonts"}),`
+import{j as s,M as i}from"./DocsRenderer-CFRXHY34-ByFh-1Qi.js";import{useMDXComponents as l}from"./index-CB3_FCD4.js";import{F as t}from"./index-C6zDz8WQ.js";import"./iframe-Ce8HkhxT.js";import"./index-MPVjHJeJ.js";import"./react-18-CzVLzJMK.js";import"./index-CXQShRbs.js";import"./index-DrFu-skq.js";import"./preview-CHqOjY3j.js";function o(n){const e={h1:"h1",h2:"h2",...l(),...n.components};return s.jsxs(s.Fragment,{children:[s.jsx(i,{title:"Design Tokens/Fonts"}),`
 `,s.jsx(e.h1,{id:"font-tokens",children:"Font tokens"}),`
 `,s.jsx(e.h2,{id:"font-family",children:"Font family"}),`
 `,s.jsx(t,{categoryName:"Font Family"}),`
