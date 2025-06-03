@@ -52,6 +52,40 @@
     --_info: hsla(204, 74%, 82%, 1);
     --_info-dark: hsla(199, 100%, 22%, 1);
 
+    /* ------------------------------ Components ------------------------------ */
+
+    /**
+    * @tokens Border radius
+    * @presenter BorderRadius
+    */
+    --border-radius: 0.25rem;
+    --box-border-radius: calc(var(--border-radius) * 2);
+    --button-border-radius: var(--border-radius);
+
+    /**
+    * @tokens Component colors
+    * @presenter Color
+    */
+    --border-color: var(--main-foreground-opacity-10);
+    --box-border-color: var(--border-color);
+    --input-border-color: var(--main-foreground-opacity-20);
+
+    /* Buttons */
+    --button-foreground: var(--main-background);
+    --button-background: var(--accent-color);
+    --button-border-color: var(--accent-color);
+
+    /* Labels */
+    --label-foreground: var(--main-background);
+    --label-background: var(--accent-color);
+
+    /* Header */
+    --header-foreground: var(--accent-color);
+    --header-background: var(--main-background);
+
+    /* Footer */
+    --footer-foreground: var(--main-foreground);
+    --footer-background: var(--main-foreground-opacity-10);
 
     /**
     * @tokens Font Family
